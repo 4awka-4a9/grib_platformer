@@ -8,14 +8,18 @@ public class PlayerMovement : MonoBehaviour
     public LayerMask groundLayer;
 
     private float horizontal;
-    private float speed = 1f;
-    private float jumpingPower = 3f;
+    private float speed = 3f;
+    private float jumpingPower = 4f;
     private bool isFacingRight = true;
     private Animator animator;
+    private int maxJumps = 2;
+    private int jumpCount;
+    private bool wasGrounded;
 
     void Start()
     {
         animator = GetComponent<Animator>();
+        jumpCount = maxJumps;
     }
 
     void Update()
@@ -56,9 +60,10 @@ public class PlayerMovement : MonoBehaviour
 
     public void Jump(InputAction.CallbackContext context)
     {
-        if (context.performed && IsGrounded())
+        if (context.performed && jumpCount > 0)
         {
             rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpingPower);
+            jumpCount--;
         }
 
         if (context.canceled && rb.linearVelocity.y > 0f)
@@ -69,7 +74,20 @@ public class PlayerMovement : MonoBehaviour
 
     private bool IsGrounded()
     {
-        return Physics2D.OverlapCircle(groundChecker.position, 0.2f, groundLayer);
+        bool grounded = Physics2D.OverlapCircle(groundChecker.position, 0.2f, groundLayer);
+
+        // Сбрасываем прыжки, только если:
+        // 1. Мы на земле
+        // 2. Ранее не были на земле (переход из воздуха)
+        if (grounded && !wasGrounded)
+        {
+            jumpCount = maxJumps;
+        }
+
+        // Обновляем wasGrounded для следующего кадра
+        wasGrounded = grounded;
+
+        return grounded;
     }
 
     private void Flip()
