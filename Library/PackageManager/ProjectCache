@@ -1,25 +1,25 @@
 m_ProjectFiles:
   m_ManifestFileStatus:
-    m_FilePath: /Users/anneverovskij/Desktop/grib-platformer/Packages/manifest.json
+    m_FilePath: /Users/anneverovskij/Desktop/infestor/Packages/manifest.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638935448250000000
+      ticks: 638944979590000000
     m_Hash: 2254206445
   m_LockFileStatus:
-    m_FilePath: /Users/anneverovskij/Desktop/grib-platformer/Packages/packages-lock.json
+    m_FilePath: /Users/anneverovskij/Desktop/infestor/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638935448250000000
+      ticks: 638944979590000000
     m_Hash: 4026298763
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
   m_LocalFileStatus: []
-m_ProjectPath: /Users/anneverovskij/Desktop/grib-platformer/Packages
+m_ProjectPath: /Users/anneverovskij/Desktop/infestor/Packages
 m_EditorVersion: 6000.1.5f1 (923722cbbcfc)
 m_ResolvedPackages:
 - packageId: com.unity.2d.animation@10.2.0
@@ -27,7 +27,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 10.2.0
   source: 1
-  resolvedPath: /Users/anneverovskij/Desktop/grib-platformer/Library/PackageCache/com.unity.2d.animation@53bd21164c9c
+  resolvedPath: /Users/anneverovskij/Desktop/infestor/Library/PackageCache/com.unity.2d.animation@53bd21164c9c
   assetPath: Packages/com.unity.2d.animation
   name: com.unity.2d.animation
   displayName: 2D Animation
@@ -281,7 +281,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.2.4
   source: 1
-  resolvedPath: /Users/anneverovskij/Desktop/grib-platformer/Library/PackageCache/com.unity.2d.aseprite@85ecd97bb34e
+  resolvedPath: /Users/anneverovskij/Desktop/infestor/Library/PackageCache/com.unity.2d.aseprite@85ecd97bb34e
   assetPath: Packages/com.unity.2d.aseprite
   name: com.unity.2d.aseprite
   displayName: 2D Aseprite Importer
@@ -321,6 +321,7 @@ m_ResolvedPackages:
     - 1.2.5
     - 2.0.0
     - 2.0.1
+    - 2.0.2
     - 3.0.0
     compatible:
     - 1.2.4
@@ -419,7 +420,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 10.1.0
   source: 1
-  resolvedPath: /Users/anneverovskij/Desktop/grib-platformer/Library/PackageCache/com.unity.2d.psdimporter@7cfb89931061
+  resolvedPath: /Users/anneverovskij/Desktop/infestor/Library/PackageCache/com.unity.2d.psdimporter@7cfb89931061
   assetPath: Packages/com.unity.2d.psdimporter
   name: com.unity.2d.psdimporter
   displayName: 2D PSD Importer
@@ -613,7 +614,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/anneverovskij/Desktop/grib-platformer/Library/PackageCache/com.unity.2d.sprite@89675b12583c
+  resolvedPath: /Users/anneverovskij/Desktop/infestor/Library/PackageCache/com.unity.2d.sprite@89675b12583c
   assetPath: Packages/com.unity.2d.sprite
   name: com.unity.2d.sprite
   displayName: 2D Sprite
@@ -683,7 +684,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 10.1.0
   source: 1
-  resolvedPath: /Users/anneverovskij/Desktop/grib-platformer/Library/PackageCache/com.unity.2d.spriteshape@49c1d1a01890
+  resolvedPath: /Users/anneverovskij/Desktop/infestor/Library/PackageCache/com.unity.2d.spriteshape@49c1d1a01890
   assetPath: Packages/com.unity.2d.spriteshape
   name: com.unity.2d.spriteshape
   displayName: 2D SpriteShape
@@ -883,7 +884,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/anneverovskij/Desktop/grib-platformer/Library/PackageCache/com.unity.2d.tilemap@544ba40c382d
+  resolvedPath: /Users/anneverovskij/Desktop/infestor/Library/PackageCache/com.unity.2d.tilemap@544ba40c382d
   assetPath: Packages/com.unity.2d.tilemap
   name: com.unity.2d.tilemap
   displayName: 2D Tilemap Editor
@@ -970,7 +971,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 4.3.0
   source: 1
-  resolvedPath: /Users/anneverovskij/Desktop/grib-platformer/Library/PackageCache/com.unity.2d.tilemap.extras@eefc9f6533f8
+  resolvedPath: /Users/anneverovskij/Desktop/infestor/Library/PackageCache/com.unity.2d.tilemap.extras@eefc9f6533f8
   assetPath: Packages/com.unity.2d.tilemap.extras
   name: com.unity.2d.tilemap.extras
   displayName: 2D Tilemap Extras
@@ -1124,7 +1125,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 2.9.3
   source: 1
-  resolvedPath: /Users/anneverovskij/Desktop/grib-platformer/Library/PackageCache/com.unity.collab-proxy@ab839cc7d2ad
+  resolvedPath: /Users/anneverovskij/Desktop/infestor/Library/PackageCache/com.unity.collab-proxy@ab839cc7d2ad
   assetPath: Packages/com.unity.collab-proxy
   name: com.unity.collab-proxy
   displayName: Unity Version Control
@@ -1293,7 +1294,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 3.0.36
   source: 1
-  resolvedPath: /Users/anneverovskij/Desktop/grib-platformer/Library/PackageCache/com.unity.ide.rider@4d374c7eb6db
+  resolvedPath: /Users/anneverovskij/Desktop/infestor/Library/PackageCache/com.unity.ide.rider@4d374c7eb6db
   assetPath: Packages/com.unity.ide.rider
   name: com.unity.ide.rider
   displayName: JetBrains Rider Editor
@@ -1356,11 +1357,14 @@ m_ResolvedPackages:
     - 3.0.35
     - 3.0.36
     - 3.0.37
+    - 3.0.38
     compatible:
     - 3.0.36
     - 3.0.37
-    recommended: 3.0.37
-    deprecated: []
+    - 3.0.38
+    recommended: 3.0.38
+    deprecated:
+    - 3.0.37
   dependencies:
   - name: com.unity.ext.nunit
     version: 1.0.6
@@ -1413,7 +1417,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 2.0.23
   source: 1
-  resolvedPath: /Users/anneverovskij/Desktop/grib-platformer/Library/PackageCache/com.unity.ide.visualstudio@198cdf337d13
+  resolvedPath: /Users/anneverovskij/Desktop/infestor/Library/PackageCache/com.unity.ide.visualstudio@198cdf337d13
   assetPath: Packages/com.unity.ide.visualstudio
   name: com.unity.ide.visualstudio
   displayName: Visual Studio Editor
@@ -1519,7 +1523,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.14.0
   source: 1
-  resolvedPath: /Users/anneverovskij/Desktop/grib-platformer/Library/PackageCache/com.unity.inputsystem@7fe8299111a7
+  resolvedPath: /Users/anneverovskij/Desktop/infestor/Library/PackageCache/com.unity.inputsystem@7fe8299111a7
   assetPath: Packages/com.unity.inputsystem
   name: com.unity.inputsystem
   displayName: Input System
@@ -1672,7 +1676,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/anneverovskij/Desktop/grib-platformer/Library/PackageCache/com.unity.multiplayer.center@f3fb577b3546
+  resolvedPath: /Users/anneverovskij/Desktop/infestor/Library/PackageCache/com.unity.multiplayer.center@f3fb577b3546
   assetPath: Packages/com.unity.multiplayer.center
   name: com.unity.multiplayer.center
   displayName: Multiplayer Center
@@ -1762,7 +1766,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 17.1.0
   source: 2
-  resolvedPath: /Users/anneverovskij/Desktop/grib-platformer/Library/PackageCache/com.unity.render-pipelines.universal@43e3bf1c3037
+  resolvedPath: /Users/anneverovskij/Desktop/infestor/Library/PackageCache/com.unity.render-pipelines.universal@43e3bf1c3037
   assetPath: Packages/com.unity.render-pipelines.universal
   name: com.unity.render-pipelines.universal
   displayName: Universal Render Pipeline
@@ -1924,7 +1928,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.5.1
   source: 2
-  resolvedPath: /Users/anneverovskij/Desktop/grib-platformer/Library/PackageCache/com.unity.test-framework@e9eb633386e7
+  resolvedPath: /Users/anneverovskij/Desktop/infestor/Library/PackageCache/com.unity.test-framework@e9eb633386e7
   assetPath: Packages/com.unity.test-framework
   name: com.unity.test-framework
   displayName: Test Framework
@@ -2062,7 +2066,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.8.7
   source: 1
-  resolvedPath: /Users/anneverovskij/Desktop/grib-platformer/Library/PackageCache/com.unity.timeline@c58b4ee65782
+  resolvedPath: /Users/anneverovskij/Desktop/infestor/Library/PackageCache/com.unity.timeline@c58b4ee65782
   assetPath: Packages/com.unity.timeline
   name: com.unity.timeline
   displayName: Timeline
@@ -2250,7 +2254,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 2.0.0
   source: 2
-  resolvedPath: /Users/anneverovskij/Desktop/grib-platformer/Library/PackageCache/com.unity.ugui@7bf98f579204
+  resolvedPath: /Users/anneverovskij/Desktop/infestor/Library/PackageCache/com.unity.ugui@7bf98f579204
   assetPath: Packages/com.unity.ugui
   name: com.unity.ugui
   displayName: Unity UI
@@ -2345,7 +2349,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.9.7
   source: 1
-  resolvedPath: /Users/anneverovskij/Desktop/grib-platformer/Library/PackageCache/com.unity.visualscripting@6279e2b7c485
+  resolvedPath: /Users/anneverovskij/Desktop/infestor/Library/PackageCache/com.unity.visualscripting@6279e2b7c485
   assetPath: Packages/com.unity.visualscripting
   name: com.unity.visualscripting
   displayName: Visual Scripting
@@ -4889,7 +4893,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 2.0.5
   source: 2
-  resolvedPath: /Users/anneverovskij/Desktop/grib-platformer/Library/PackageCache/com.unity.ext.nunit@031a54704bff
+  resolvedPath: /Users/anneverovskij/Desktop/infestor/Library/PackageCache/com.unity.ext.nunit@031a54704bff
   assetPath: Packages/com.unity.ext.nunit
   name: com.unity.ext.nunit
   displayName: Custom NUnit
@@ -4968,7 +4972,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 17.1.0
   source: 2
-  resolvedPath: /Users/anneverovskij/Desktop/grib-platformer/Library/PackageCache/com.unity.render-pipelines.core@84f51632ce13
+  resolvedPath: /Users/anneverovskij/Desktop/infestor/Library/PackageCache/com.unity.render-pipelines.core@84f51632ce13
   assetPath: Packages/com.unity.render-pipelines.core
   name: com.unity.render-pipelines.core
   displayName: Scriptable Render Pipeline Core
@@ -5182,7 +5186,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 17.1.0
   source: 2
-  resolvedPath: /Users/anneverovskij/Desktop/grib-platformer/Library/PackageCache/com.unity.shadergraph@eb6dc067db28
+  resolvedPath: /Users/anneverovskij/Desktop/infestor/Library/PackageCache/com.unity.shadergraph@eb6dc067db28
   assetPath: Packages/com.unity.shadergraph
   name: com.unity.shadergraph
   displayName: Shader Graph
@@ -5385,7 +5389,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 17.0.3
   source: 2
-  resolvedPath: /Users/anneverovskij/Desktop/grib-platformer/Library/PackageCache/com.unity.render-pipelines.universal-config@6af1487fecff
+  resolvedPath: /Users/anneverovskij/Desktop/infestor/Library/PackageCache/com.unity.render-pipelines.universal-config@6af1487fecff
   assetPath: Packages/com.unity.render-pipelines.universal-config
   name: com.unity.render-pipelines.universal-config
   displayName: Universal Render Pipeline Config
@@ -5483,7 +5487,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 9.1.0
   source: 1
-  resolvedPath: /Users/anneverovskij/Desktop/grib-platformer/Library/PackageCache/com.unity.2d.common@2df623fe8b00
+  resolvedPath: /Users/anneverovskij/Desktop/infestor/Library/PackageCache/com.unity.2d.common@2df623fe8b00
   assetPath: Packages/com.unity.2d.common
   name: com.unity.2d.common
   displayName: 2D Common
@@ -5651,7 +5655,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.3.2
   source: 1
-  resolvedPath: /Users/anneverovskij/Desktop/grib-platformer/Library/PackageCache/com.unity.mathematics@8017b507cc74
+  resolvedPath: /Users/anneverovskij/Desktop/infestor/Library/PackageCache/com.unity.mathematics@8017b507cc74
   assetPath: Packages/com.unity.mathematics
   name: com.unity.mathematics
   displayName: Mathematics
@@ -5740,7 +5744,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 2.5.1
   source: 1
-  resolvedPath: /Users/anneverovskij/Desktop/grib-platformer/Library/PackageCache/com.unity.collections@56bff8827a7e
+  resolvedPath: /Users/anneverovskij/Desktop/infestor/Library/PackageCache/com.unity.collections@56bff8827a7e
   assetPath: Packages/com.unity.collections
   name: com.unity.collections
   displayName: Collections
@@ -5919,7 +5923,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 4.9.3
   source: 1
-  resolvedPath: /Users/anneverovskij/Desktop/grib-platformer/Library/PackageCache/com.unity.searcher@1e17ce91558d
+  resolvedPath: /Users/anneverovskij/Desktop/infestor/Library/PackageCache/com.unity.searcher@1e17ce91558d
   assetPath: Packages/com.unity.searcher
   name: com.unity.searcher
   displayName: Searcher
@@ -6006,7 +6010,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.8.21
   source: 1
-  resolvedPath: /Users/anneverovskij/Desktop/grib-platformer/Library/PackageCache/com.unity.burst@59eb6f11d242
+  resolvedPath: /Users/anneverovskij/Desktop/infestor/Library/PackageCache/com.unity.burst@59eb6f11d242
   assetPath: Packages/com.unity.burst
   name: com.unity.burst
   displayName: Burst
@@ -6160,12 +6164,14 @@ m_ResolvedPackages:
     - 1.8.22
     - 1.8.23
     - 1.8.24
+    - 1.8.25
     compatible:
     - 1.8.21
     - 1.8.22
     - 1.8.23
     - 1.8.24
-    recommended: 1.8.24
+    - 1.8.25
+    recommended: 1.8.25
     deprecated: []
   dependencies:
   - name: com.unity.mathematics
@@ -6245,7 +6251,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.0.1
   source: 2
-  resolvedPath: /Users/anneverovskij/Desktop/grib-platformer/Library/PackageCache/com.unity.rendering.light-transport@ec31b4120e30
+  resolvedPath: /Users/anneverovskij/Desktop/infestor/Library/PackageCache/com.unity.rendering.light-transport@ec31b4120e30
   assetPath: Packages/com.unity.rendering.light-transport
   name: com.unity.rendering.light-transport
   displayName: Unity Light Transport Library
@@ -6341,7 +6347,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.11.4
   source: 1
-  resolvedPath: /Users/anneverovskij/Desktop/grib-platformer/Library/PackageCache/com.unity.nuget.mono-cecil@d6f9955a5d5f
+  resolvedPath: /Users/anneverovskij/Desktop/infestor/Library/PackageCache/com.unity.nuget.mono-cecil@d6f9955a5d5f
   assetPath: Packages/com.unity.nuget.mono-cecil
   name: com.unity.nuget.mono-cecil
   displayName: Mono Cecil
@@ -6423,7 +6429,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 3.1.0
   source: 1
-  resolvedPath: /Users/anneverovskij/Desktop/grib-platformer/Library/PackageCache/com.unity.test-framework.performance@92d1d09a72ed
+  resolvedPath: /Users/anneverovskij/Desktop/infestor/Library/PackageCache/com.unity.test-framework.performance@92d1d09a72ed
   assetPath: Packages/com.unity.test-framework.performance
   name: com.unity.test-framework.performance
   displayName: Performance testing API
@@ -6490,8 +6496,10 @@ m_ResolvedPackages:
     - 3.0.2
     - 3.0.3
     - 3.1.0
+    - 3.2.0
     compatible:
     - 3.1.0
+    - 3.2.0
     recommended: 3.1.0
     deprecated: []
   dependencies:

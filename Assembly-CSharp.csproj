@@ -48,8 +48,9 @@
     <Analyzer Include="/Applications/Unity/Hub/Editor/6000.1.5f1/Unity.app/Contents/Tools/Unity.SourceGenerators/Unity.UIToolkit.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets/Scripts/PlayerMovement.cs" />
-    <Compile Include="Assets/Scripts/CameraFollow.cs" />
+    <Compile Include="Assets/Scripts/PlayerControl.cs" />
+    <Compile Include="Assets/Scripts/TileSelector.cs" />
+    <Compile Include="Assets/Scripts/infectedController.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">

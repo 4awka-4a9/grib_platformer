@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 28
-  productGUID: a93d7d644017e41108255b15fd5750b1
+  productGUID: 28fa1d59252c5495995892e217e5bc72
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: grib-platformer
+  productName: infestor
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -507,7 +507,7 @@ PlayerSettings:
   ps4GarlicHeapSize: 2048
   ps4ProGarlicHeapSize: 2560
   playerPrefsMaxSize: 32768
-  ps4Passcode: NOPP0YTGXHcnJZ8kDUi6ph64gNfSutC2
+  ps4Passcode: UYogI0EQ0QSNsYTWaiXm2GjkuG3dV6TP
   ps4pnSessions: 1
   ps4pnPresence: 1
   ps4pnFriends: 1
@@ -596,14 +596,14 @@ PlayerSettings:
   editorAssembliesCompatibilityLevel: 1
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: grib-platformer
+  metroPackageName: infestor
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: grib-platformer
+  metroApplicationDescription: infestor
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
@@ -674,10 +674,10 @@ PlayerSettings:
   captureStartupLogs: {}
   activeInputHandler: 1
   windowsGamepadBackendHint: 0
-  cloudProjectId: dc7c6012-a490-4332-88aa-a906bae79e80
+  cloudProjectId: bfe37667-8d02-4f6c-9192-84bcc39fc935
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: grib-platformer
+  projectName: infestor
   organizationId: jan333333
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
